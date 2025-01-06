@@ -1,0 +1,84 @@
+---
+title: "Steve's Guide to Scrollytelling"
+format:
+  closeread-html:
+    cr-style:
+      narrative-background-color-overlay: white
+      section-background-color: white
+
+---
+
+(Almost) all you need to know about how to create a scrollytelling document for a concept map!  
+
+## Installs
+
+To get started, you'll first need to install a few things:
+
+### R
+
+:::{.cr-section}
+
+First, we will install R by visiting <https://cran.rstudio.com/>. Even though we won't use R directly, we still need it before we can install other user interfaces! @cr-Rinstall1
+
+
+:::{#cr-Rinstall1}
+
+![](R1.png)
+:::
+
+At the top of this page is a series of download links: Mac, Windows, and Linux options. You'll pick the one that best describes your computer, and follow the directions at the appropriate link. @cr-Rinstall2
+
+:::{#cr-Rinstall2}
+
+![](R2.png)
+:::
+
+:::
+
+Now that R is installed, time to install RStudio.
+
+### RStudio
+
+:::{.cr-section}
+
+To install RStudio, a user-friendly interface for R, you will go to this link: <https://posit.co/download/rstudio-desktop/>.  You'll notice that you'll be prompted to first install R (which we've already done!) before installing RStudio. @cr-rsinstall1
+
+If you have a windows machine,  you can go to the big blue button ("DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS") [@cr-rsinstall1]{pan-to="-50%,-50%" scale-by="1.5"}
+
+If you do not have a windows machine, if you scroll down a bit, you'll see a list of options for different operating systems.  Just pick the one that best fits your situation. @cr-rsinstall2
+
+:::{#cr-rsinstall1}
+
+![](RS1.png)
+:::
+
+:::{#cr-rsinstall2}
+
+![](RS2.png)
+:::
+
+:::
+
+### Quarto
+
+:::{.cr-section}
+
+
+:::{#cr-Qinstall}
+
+
+:::
+
+:::
+
+### Closeread permissions
+
+:::{.cr-section}
+
+
+:::{#cr-CRinstall}
+
+
+:::
+
+:::

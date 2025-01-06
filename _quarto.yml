@@ -1,0 +1,10 @@
+project:
+  type: website
+  title: "How_To"
+
+editor: visual
+
+format:
+  html: 
+    theme: cosmo
+    css: sytles.css
